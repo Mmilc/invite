@@ -96,6 +96,7 @@ def a(e, t):
     return str(e) + "^⁣^" + str(t)
 
 
+
 def s(e):
     t = 0
     n = len(e)
